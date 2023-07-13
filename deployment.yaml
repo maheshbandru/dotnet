@@ -16,6 +16,34 @@ spec:
     spec:
       containers:
       - name: myapps
-        image: mahesh365/dotnetimage:tagname
+        image: mahesh365/dotnetimage:latest
         ports:
         - containerPort: 80
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+
