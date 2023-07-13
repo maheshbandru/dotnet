@@ -19,7 +19,7 @@ spec:
         image: mahesh365/dotnetimage:latest
         ports:
         - containerPort: 80
-~
+
 ~
 ~
 ~
